@@ -73,7 +73,6 @@ animation: spin 10s linear infinite;
   }
 }
 /*탑바 구현*/
-/*탑바 구현*/
 .top-bar {
 position: fixed;
 z-index: 10;
@@ -357,7 +356,7 @@ ul>li{
     border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
   .footer-container {
-    min-width: 1200px;
+    width:100%;
     height: 100%;
     margin: 0 auto;
     display: flex;
